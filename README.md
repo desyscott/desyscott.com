@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>victoreke.com</h1>
+<h1> desyscott.com</h1>
 <p>My personal portfolio website</p>
 </div>
 
@@ -90,9 +90,6 @@ By default the UI will be blank. To start adding data to the site, visit your st
 
 If you expereinced any issues or enquiries, please raise an issue to discuss it.
 
-## Additional Information
-
-Need more guidiance, check out this [tutorial][sanity-guide] that provides a step-by-step guide to setting up Sanity studio for your portfolio site.
 
 ## Build
 
@@ -111,7 +108,9 @@ npm run build
 | [`sanity.query.ts`](./lib/sanity.query.ts)     | Groq query for Sanity Schema data               |
 
 ## License & Usage
-This portfolio is MIT-licensed so you are free to use it as an inspiration or you can just copy the whole thing (excluding my personal content of course), I don't really mind. Just make sure you link back to [victoreke.com][site] on the footer section as attribution to the original source.
+
+This portfolio is MIT-licensed so you are free to use it as an inspiration or you can just copy the whole thing (excluding my personal content of course), I don't really mind. Just make sure you link back to [desyscott.com][site] on the footer section as attribution to the original source.
+
 
 <!-- Link Refs -->
 
@@ -133,3 +132,4 @@ This portfolio is MIT-licensed so you are free to use it as an inspiration or yo
 [env-api]: https://github.com/Evavic44/victoreke.com/blob/main/lib/env.api.ts
 [sanity-manage]: https://sanity.io/manage
 [sanity-guide]: https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs
+

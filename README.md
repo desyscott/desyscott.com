@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://victoreke.com"><img src="./public/logo.png" width="60px"></a>
+<a href="https://victoreke.com"><img src="./public/logo.webp" width="60px"></a>
 </div>
 
 <div align="center">
@@ -30,9 +30,9 @@ Follow this guide to get this site runnning locally:
 ### Clone Repository
 
 ```js
-git clone https://github.com/Evavic44/victoreke.com.git
+git clone https://github.com/desyscott/desyscott.com.git
 
-cd victoreke.com
+cd desyscott.com
 
 npm install
 ```
@@ -123,7 +123,6 @@ This portfolio is MIT-licensed so you are free to use it as an inspiration or yo
 [nexttheme]: https://github.com/pacocoursey/next-themes
 [reactrefractor]: https://github.com/rexxars/react-refractor
 [site]: https://victoreke.com
-[studio]: https://victoreke.com/studio
 [studio-preview]: https://github.com/Evavic44/victoreke.com/assets/62628408/a2574479-a352-4437-ba67-14bd976e48eb
 [site-preview]: https://github.com/Evavic44/victoreke.com/assets/62628408/e84ac72f-1ba1-4c46-bfc0-2512ffa0e5fa
 [env-example]: https://github.com/Evavic44/victoreke.com/blob/main/.env.example
